@@ -14,7 +14,7 @@ export const story = {
       date: "Abril 2024",
       title: "La primera vez",
       description:
-        "Te recogí afuera de Cayetano Heredia. Ibas con tu uniforme, un poco nerviosa — o quizás era yo. Fuimos a Norkys en Plaza Norte y compartimos pollo a la brasa mientras el tiempo se hacía corto. No quería que terminara.",
+        "Te recogí afuera de Cayetano Heredia. Ibas con ropa negra y un poco nerviosa. Fuimos a Norkys en Plaza Norte y compartimos pollo a la brasa mientras el tiempo se hacía corto.",
       photo: "/images/primera-vez.gif",
       emoji: "🍗",
     },
@@ -58,7 +58,7 @@ export const story = {
 
 Hoy, 12 de mayo, el Día Internacional de la Enfermera, no podía dejar pasar este momento sin decirte todo lo que guardo adentro.
 
-Te conocí como Abigail. Así te llamaban todos. Pero yo encontré a Kiara. La que me habló con honestidad desde el primer mensaje, la que se subió a ese carro sin conocerme del todo, la que me contó sus sueños mientras el tráfico nos detenía camino a Plaza Norte. Ese día, compartiendo pollo a la brasa en Norkys, supe que algo en mi vida había cambiado. No sabía exactamente qué, pero lo sentí.
+Te conocí como Abigail. Así te llamaban todos. Pero yo encontré a Kiara. La que me habló con honestidad desde el primer mensaje, la que se subió a ese carro sin conocerme del todo, la que me contó sus anécdotas mientras el tráfico nos detenía camino a Plaza Norte. Ese día, compartiendo pollo a la brasa en Norkys, no sabía que algo en mi vida iba a cambiar. 
 
 Vinieron más tardes. La de las bancas donde Papa John's estaba cerrado pero a ninguno de los dos nos importó. La del parque donde el tiempo pareció detenerse. Y el 2 de mayo, nuestro día, cuando te miré a los ojos y supe que quería que fueras mía, y yo tuyo.
 
@@ -66,7 +66,7 @@ Cada mesario que pasa me recuerda lo fácil que es amarte. No porque todo sea pe
 
 Elegiste una carrera que pocos comprenden hasta que la necesitan. Cuidar a otros requiere una fuerza que no se aprende en libros, se trae adentro, se cultiva con paciencia, con vocación, con humanidad. Tú la tienes. La vi desde la primera vez que me hablaste de tus ciclos, de tus prácticas, de todo lo que dabas sin pedirte nada a cambio.
 
-Hoy el mundo celebra a las enfermeras. Yo te celebro a ti. No solo por lo que haces en Innomedic cada día, sino por todo lo que eres cuando llegas a casa: la que ríe fuerte, la que abraza con ganas, la que hace que cualquier lugar ordinario se sienta especial.
+Hoy el mundo celebra a las enfermeras. Yo te celebro a ti, mi seccionario, mi osita. No solo por lo que haces en actualmente como auditora, sino por todo lo que eres cada vez que nos vemos: La que ríe fuerte, la que abraza con ganas, la que hace que cualquier lugar ordinario se sienta especial.
 
 Gracias por elegirme también.
 
